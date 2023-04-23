@@ -1,0 +1,36 @@
+body{
+   background-color:#444a4d;
+    }
+    
+.container{
+    background-color:white;
+    margin:5px;
+    padding:5px;
+    }
+.container .header h1{
+    text-align:center;
+    }
+    
+.container .header img{
+    display:flex;
+    width:40%;
+    border-radius:100%;
+    float:left;
+    }
+    
+
+.container .header .nama{
+        padding-left:50%;
+        }
+
+.clear{
+   clear: left;
+}
+
+.container .content p{
+    text-align:justify;
+    }
+    
+.container .content .table{
+    padding-left:10px;
+    }
